@@ -60,7 +60,7 @@ const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY;
 
 
 🧠 Built-in AI Assistant
-1. Uses LLaMA through OpenRouter API
+1. Uses DeepSeek R1 through OpenRouter API
 2. No signup needed
 3. Gives ChatGPT-style responses
 4. Good for research, summaries, ideas, answers, etc.
